@@ -14,9 +14,11 @@
 .url{
     padding: 30px;
     background: #fff;
-    width: 250px;
-    height: 250px;
+    width: 350px;
+    height: 350px;
     position: absolute;
-    top: 45%;
-    left: 45%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 5px;
 }
